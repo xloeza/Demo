@@ -5,4 +5,4 @@ to run the project execute
 npm start
 --------------------------------------------
 
-Created by Xavier
+Created by Xavier Loeza
